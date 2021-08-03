@@ -14,31 +14,3 @@ The company I worked for used JEXT (another open source code editor in Java) as 
 
 How to install:
 ***************
-
-From the installer:
-	Just follow the installation instructions.
-From the zip/7z package:
-	Unzip all the files into a directory you want then launch "notepad++.exe".
-
-	
-Web sites:
-***********
-
-Notepad++ official site:
-	https://notepad-plus-plus.org/
-
-Notepad++ project site:
-	https://github.com/notepad-plus-plus/notepad-plus-plus/
-
-Notepad++ user manual:
-	https://npp-user-manual.org/
-
-Notepad++ forum:
-	https://community.notepad-plus-plus.org/
-
-
-Author:
-*******
-
-Don Ho <don.h@free.fr>
-	https://notepad-plus-plus.org/author/
